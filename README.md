@@ -1,4 +1,4 @@
-# IIT SoftFoot Description (MJCF)
+# IIT SoftFoot (MJCF)
 
 Requires MuJoCo 3.2.0 or later.
 
